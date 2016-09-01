@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    }
+]

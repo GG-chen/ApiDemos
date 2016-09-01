@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\logo120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\androidTest\\res\\drawable-ldpi\\logo120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\smlnpatch120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\androidTest\\res\\drawable-ldpi\\smlnpatch120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\reslogo120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\androidTest\\res\\drawable-ldpi\\reslogo120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\logo120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\androidTest\\res\\drawable-ldpi\\logo120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\stylogo120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\androidTest\\res\\drawable-ldpi\\stylogo120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\smlnpatch120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\androidTest\\res\\drawable-ldpi\\smlnpatch120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\reslogo120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\androidTest\\res\\drawable-ldpi\\reslogo120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\npatch120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos\\app\\src\\androidTest\\res\\drawable-ldpi\\npatch120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\npatch120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\androidTest\\res\\drawable-ldpi\\npatch120dpi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\stylogo120dpi.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\ApiDemos1\\app\\src\\androidTest\\res\\drawable-ldpi\\stylogo120dpi.png"
+    }
+]
